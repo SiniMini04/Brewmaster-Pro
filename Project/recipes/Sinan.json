@@ -1,0 +1,7 @@
+{
+  "name": "Sinan",
+  "rast1": { "temp": 20, "time": 50 },
+  "rast2": { "temp": 30, "time": 60 },
+  "rast3": { "temp": 40, "time": 70 },
+  "einmaisch-temp": 10
+}

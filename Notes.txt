@@ -1,0 +1,11 @@
+Run Code:
+
+fltk-config --compile filename
+./filename
+
+
+
+
+Compiling:
+
+ g++ main.cpp -o main -lfltk -lfltk_images -lpthread -lX11
